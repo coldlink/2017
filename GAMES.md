@@ -8,3 +8,7 @@
   - S: 2016/06/24
   - C: 2017/01/08
   - T: 30:04:14
+3. Idol Magical Girl Chiru Chiru Michiru Part 1
+  - S: 2017/01/08
+  - C:
+  - T:
