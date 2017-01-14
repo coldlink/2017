@@ -2,7 +2,7 @@
 
 1. Metal Gear Rising: Revengence
   - S: 2017/01/01
-  - C: 2017/02/02
+  - C: 2017/01/02
   - T: 09:48:00
 2. Odin Sphere: Leifthrasir
   - S: 2016/06/24
