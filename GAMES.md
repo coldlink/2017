@@ -10,8 +10,8 @@
   - T: 30:04:14
 3. Idol Magical Girl Chiru Chiru Michiru Part 1
   - S: 2017/01/08
-  - C:
-  - T:
+  - C: 2017/01/14
+  - T: 05:30:00
 4. Dark Messiah of Might & Magic
   - S: 2017/01/12
   - C: 2017/01/14
