@@ -16,3 +16,15 @@
   - S: 2017/01/12
   - C: 2017/01/14
   - T: 09:30:00
+5. Fate/Extella: The Umbral Star
+  - S:
+  - C:
+  - T:
+6. Gravity Rush 2
+  - S:
+  - C:
+  - T:
+7. VA-11 Hall-A: Cyberpunk Bartender Action
+  - S:
+  - C:
+  - T:
