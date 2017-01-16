@@ -36,11 +36,11 @@
   - S:
   - C:
   - T:
-10: NieR: Automata
+10. NieR: Automata
   - S:
   - C:
   - T:
-11: Persona 5
+11. Persona 5
   - S:
   - C:
   - T:
