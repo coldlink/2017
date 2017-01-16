@@ -25,6 +25,10 @@
   - C:
   - T:
 7. VA-11 Hall-A: Cyberpunk Bartender Action
+  - S: 2017/01/15
+  - C:
+  - T:
+8. Dead Space
   - S:
   - C:
   - T:
