@@ -7,7 +7,7 @@
   - T: M
 2. Bakemonogatari (Part 1)
   - S: 2016/12/23
-  - C:
+  - C: 2017/01/23
   - A: 1/1
   - T: N
 3. Spice and Wolf (Vol 11)
