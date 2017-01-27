@@ -44,3 +44,7 @@
   - S:
   - C:
   - T:
+12. Resident Evil 7
+  - S:
+  - C:
+  - T:
