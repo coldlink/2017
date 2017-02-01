@@ -52,7 +52,11 @@
   - S: 2016/XX/XX
   - C:
   - T:
-14. GrimGrimoire
+14. Idol Magical Girl Chiru Chiru Michiru Part 2
+  - S:
+  - C:
+  - T:
+15. GrimGrimoire
   - S:
   - C:
   - T:
