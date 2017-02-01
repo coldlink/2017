@@ -48,3 +48,7 @@
   - S:
   - C:
   - T:
+13. Fire Emblem Fates: Revelation
+  - S: 2016/XX/XX
+  - C:
+  - T:
