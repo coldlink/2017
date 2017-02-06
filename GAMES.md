@@ -22,8 +22,8 @@
   - T:
 6. Gravity Rush 2
   - S: 2017/01/21
-  - C: 2017/02/05
-  - T: 35:22:12
+  - C: 2017/02/05
+  - T: 35:22:12
 7. VA-11 Hall-A: Cyberpunk Bartender Action
   - S: 2017/01/15
   - C: 2017/01/16
