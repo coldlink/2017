@@ -18,8 +18,8 @@
   - T: 09:30:00
 5. Fate/Extella: The Umbral Star
   - S: 2017/01/19 
-  - C:
-  - T:
+  - C: 2017/02/02
+  - T: ??:??:??
 6. Gravity Rush 2
   - S: 2017/01/21
   - C: 2017/02/05
