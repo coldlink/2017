@@ -72,7 +72,7 @@
   - S:
   - C:
   - T:
-18. Tales of Zestria
+18. Tales of Zestiria
   - S:
   - C:
   - T:
