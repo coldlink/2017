@@ -80,7 +80,12 @@
   - S:
   - C:
   - T:
-18. Doom
+18. Doom Fire Emblem Echoes: Shadows of Valentia
   - S:
   - C:
   - T:
+19. Fire Emblem Echoes: Shadows of Valentia
+  - S:
+  - C:
+  - T:
+  
