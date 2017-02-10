@@ -72,3 +72,11 @@
   - S:
   - C:
   - T:
+18. Tales of Zestria
+  - S:
+  - C:
+  - T:
+17. Enslaved: Odyssey to the West
+  - S:
+  - C:
+  - T:
