@@ -68,3 +68,7 @@
   - S:
   - C:
   - T:
+17. Gravity Rush 2: Raven's Choice (DLC)
+  - S:
+  - C:
+  - T:
