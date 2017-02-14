@@ -61,7 +61,7 @@
   - C:
   - T:
 16. NieR
-  - S:
+  - S: 10/02/2017
   - C:
   - T:
 16. Ys II
@@ -80,11 +80,15 @@
   - S:
   - C:
   - T:
-18. Doom Fire Emblem Echoes: Shadows of Valentia
+18. Doom
   - S:
   - C:
   - T:
 19. Fire Emblem Echoes: Shadows of Valentia
+  - S:
+  - C:
+  - T:
+20. The Last Guardian
   - S:
   - C:
   - T:
