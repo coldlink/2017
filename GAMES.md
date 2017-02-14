@@ -92,4 +92,8 @@
   - S:
   - C:
   - T:
+21. Drakengard 3
+  - S:
+  - C:
+  - T:
   
