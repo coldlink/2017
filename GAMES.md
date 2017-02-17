@@ -104,4 +104,7 @@
   - S:
   - C:
   - T:
-  
+24. Fire Emblem: Awakening (Hard Mode)
+  - S:
+  - C:
+  - T:
