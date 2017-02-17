@@ -49,7 +49,7 @@
   - C:
   - T:
 13. Fire Emblem Fates: Revelation
-  - S: 2016/XX/XX
+  - S: 2016/??/??
   - C:
   - T:
 14. Idol Magical Girl Chiru Chiru Michiru Part 2
