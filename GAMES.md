@@ -93,6 +93,14 @@
   - C:
   - T:
 21. Drakengard 3
+  - S: 2017/02/17
+  - C:
+  - T:
+22. God Eater: Resurrection
+  - S:
+  - C:
+  - T:
+23. God Eater 2: Rage Burst
   - S:
   - C:
   - T:
