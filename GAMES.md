@@ -112,3 +112,7 @@
   - S: 2017/02/02
   - C: XX/XX/XX
   - T: XX:XX:XX
+26. VA-11 Hall-A: Cyberpunk Bartender Action Prologue (Remastered/DLC)
+  - S: 2017/02/19
+  - C:
+  - T:
