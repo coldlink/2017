@@ -17,11 +17,11 @@
   - T: N
 4. (Zaregoto) The Beheading Cycle: The Blue Savant and the Nonsense Bearer
   - S: 2017/02/04
-  - C: 
+  - C: 2017/02/18
   - A: 1/1
   - T: N
 5. Spice and Wolf (Vol 12)
   - S: 
   - C: 
   - A: 
-  - T: 
+  - T: N
