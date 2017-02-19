@@ -94,8 +94,8 @@
   - T:
 21. Drakengard 3
   - S: 2017/02/17
-  - C:
-  - T:
+  - C: 2017/02/19
+  - T: XX:XX:XX
 22. God Eater: Resurrection
   - S:
   - C:
@@ -111,4 +111,4 @@
 25. Fie Emblem: Heroes
   - S: 2017/02/02
   - C: XX/XX/XX
-  - T: XX/XX/XX
+  - T: XX:XX:XX
