@@ -1,5 +1,7 @@
 # 2017 Backlog/Playing/Completed Games List
 
+CURRENT STATUS - PLAYING: 1 - COMPLETED: 11
+
 1. Metal Gear Rising: Revengence
   - S: 2017/01/01
   - C: 2017/01/02
@@ -110,8 +112,8 @@
   - T:
 25. Fie Emblem: Heroes
   - S: 2017/02/02
-  - C: XX/XX/XX
-  - T: XX:XX:XX
+  - C: 
+  - T: 
 26. VA-11 Hall-A: Cyberpunk Bartender Action Prologue (Remastered/DLC)
   - S: 2017/02/19
   - C: 2017/02/19
