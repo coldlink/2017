@@ -104,7 +104,7 @@
   - S:
   - C:
   - T:
-24. Fire Emblem: Awakening (Hard Mode)
+24. Fire Emblem: Awakening (Replay/Hard Mode)
   - S:
   - C:
   - T:
