@@ -19,7 +19,7 @@
 5. Fate/Extella: The Umbral Star
   - S: 2017/01/19 
   - C: 2017/02/02
-  - T: ??:??:??
+  - T: XX:XX:XX
 6. Gravity Rush 2
   - S: 2017/01/21
   - C: 2017/02/05
@@ -49,7 +49,7 @@
   - C:
   - T:
 13. Fire Emblem Fates: Revelation
-  - S: 2016/??/??
+  - S: 2016/XX/XX
   - C:
   - T:
 14. Idol Magical Girl Chiru Chiru Michiru Part 2
@@ -108,3 +108,7 @@
   - S:
   - C:
   - T:
+25. Fie Emblem: Heroes
+  - S: 2017/02/02
+  - C: XX/XX/XX
+  - T: XX/XX/XX
