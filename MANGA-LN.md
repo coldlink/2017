@@ -15,7 +15,7 @@
   - C: 2017/02/05
   - A: 1/1
   - T: N
-4. (Zaregoto) The Beheading Cycle: The Blue Savant and the Nonsense Bearer
+4. Decapitation - Kubikiri Cycle: The Blue Savant and the Nonsense User
   - S: 2017/02/04
   - C: 2017/02/18
   - A: 1/1
