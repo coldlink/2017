@@ -21,7 +21,7 @@
   - A: 1/1
   - T: N
 5. Spice and Wolf (Vol 12)
-  - S: 
+  - S: 2017/02/20
   - C: 
-  - A: 
+  - A: 1/1
   - T: N
