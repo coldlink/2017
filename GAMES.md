@@ -117,4 +117,4 @@ CURRENT STATUS - PLAYING: 1 - COMPLETED: 11
 26. VA-11 Hall-A: Cyberpunk Bartender Action Prologue (Remastered/DLC)
   - S: 2017/02/19
   - C: 2017/02/19
-  - T: 00:63:00
+  - T: 01:03:00
