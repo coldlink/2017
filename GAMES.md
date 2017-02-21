@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 1 - COMPLETED: 10
+CURRENT STATUS - PLAYING: 2 - COMPLETED: 10
 
 1. Metal Gear Rising: Revengence
   - S: 2017/01/01
