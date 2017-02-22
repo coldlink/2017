@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 2 - COMPLETED: 10
+CURRENT STATUS - PLAYING: 3 - COMPLETED: 10
 
 1. Metal Gear Rising: Revengence
   - S: 2017/01/01
@@ -31,7 +31,7 @@ CURRENT STATUS - PLAYING: 2 - COMPLETED: 10
   - C: 2017/01/16
   - T: 08:00:00
 8. Dead Space
-  - S:
+  - S: 2017/02/21
   - C:
   - T:
 9. Alien: Isolation
