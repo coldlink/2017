@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 3 - COMPLETED: 10
+CURRENT STATUS - PLAYING: 2 - COMPLETED: 10
 
 1. Metal Gear Rising: Revengence
   - S: 2017/01/01
@@ -110,15 +110,11 @@ CURRENT STATUS - PLAYING: 3 - COMPLETED: 10
   - S:
   - C:
   - T:
-25. Fie Emblem: Heroes
-  - S: 2017/02/02
-  - C: XXXX/XX/XX
-  - T: XX:XX:XX
-26. VA-11 Hall-A: Cyberpunk Bartender Action Prologue (Remastered/DLC)
+25. VA-11 Hall-A: Cyberpunk Bartender Action Prologue (Remastered/DLC)
   - S: 2017/02/19
   - C: 2017/02/19
   - T: 01:03:00
-27. Deus Ex: Mankind Divided
+26. Deus Ex: Mankind Divided
   - S: 
   - C: 
   - T:
