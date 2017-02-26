@@ -153,3 +153,8 @@ Ratings:
   - C: 
   - T:
   - R:
+27. Dreamfall Chapters
+  - S:
+  - C:
+  - T:
+  - R:
