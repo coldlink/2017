@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 1 - COMPLETED: 11
+CURRENT STATUS - PLAYING: 2 - COMPLETED: 11
 
 Ratings:
   - \~     Neutral
@@ -104,7 +104,7 @@ Ratings:
   - T:
   - R:
 17. Enslaved: Odyssey to the West
-  - S:
+  - S: 2017/02/2017
   - C:
   - T:
   - R:
