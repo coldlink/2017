@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 1 - COMPLETED: 12
+CURRENT STATUS - PLAYING: 2 - COMPLETED: 12
 
 Ratings:
   - \~     Neutral
@@ -89,7 +89,7 @@ Ratings:
   - T: 23:30:04
   - R: ++
 16. Ys II
-  - S:
+  - S: 2017/02/05
   - C:
   - T:
   - R:
