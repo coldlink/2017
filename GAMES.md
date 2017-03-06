@@ -158,3 +158,8 @@ Ratings:
   - C:
   - T:
   - R:
+28. Ys Origin
+  - S:
+  - C:
+  - T:
+  - R:
