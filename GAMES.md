@@ -92,7 +92,7 @@ Ratings:
   - S: 2017/02/05
   - C: 2017/02/06
   - T: 07:42:00
-  - R: ++
+  - R: +
 17. Gravity Rush 2: Raven's Choice (DLC)
   - S:
   - C:
