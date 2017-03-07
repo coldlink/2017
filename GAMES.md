@@ -163,3 +163,13 @@ Ratings:
   - C:
   - T:
   - R:
+29. Shelter
+  - S:
+  - C:
+  - T:
+  - R:
+30. Shelter 2
+  - S:
+  - C:
+  - T:
+  - R:
