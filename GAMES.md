@@ -168,3 +168,8 @@ Ratings:
   - C: 2017/03/07
   - T: 01:02:00
   - R: ~
+30. D4: Dark Dreams Don't Die
+  - S:
+  - C:
+  - T:
+  - R:
