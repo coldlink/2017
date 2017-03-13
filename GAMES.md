@@ -160,9 +160,10 @@ Ratings:
   - R:
 28. Ys Origin
   - S: 2017/03/11
-  - C:
-  - T:
-  - R:
+  - C: 2017/03/12
+  - T: 07:45:00
+  - R: +
+  - N: 1/3 Characters Completed
 29. Shelter
   - S: 2017/03/07
   - C: 2017/03/07
