@@ -174,3 +174,8 @@ Ratings:
   - C: 2017/03/16
   - T: 3:00:00
   - R: +
+31. Ys: The Oath in Felghana
+  - S:
+  - C:
+  - T:
+  - R:
