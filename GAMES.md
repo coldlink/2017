@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 1 - COMPLETED: 15
+CURRENT STATUS - PLAYING: 1 - COMPLETED: 16
 
 Ratings:
   - \~     Neutral
@@ -170,7 +170,7 @@ Ratings:
   - T: 01:02:00
   - R: ~
 30. D4: Dark Dreams Don't Die
-  - S:
-  - C:
-  - T:
-  - R:
+  - S: 2017/03/13
+  - C: 2017/03/16
+  - T: 3:00:00
+  - R: +
