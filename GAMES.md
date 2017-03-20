@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 1 - COMPLETED: 16
+CURRENT STATUS - PLAYING: 2 - COMPLETED: 16
 
 Ratings:
   - \~     Neutral
@@ -54,7 +54,7 @@ Ratings:
   - T:
   - R:
 10. NieR: Automata
-  - S:
+  - S: 2017/03/17
   - C:
   - T:
   - R:
