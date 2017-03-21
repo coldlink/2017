@@ -178,4 +178,14 @@ Ratings:
   - S:
   - C:
   - T:
-  - R:
+  - R: 
+32. OneShot
+  - S:
+  - C:
+  - T:
+  - R: 
+33. The Silver Case
+  - S:
+  - C:
+  - T:
+  - R: 
