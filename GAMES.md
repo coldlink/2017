@@ -55,9 +55,10 @@ Ratings:
   - R:
 10. NieR: Automata
   - S: 2017/03/17
-  - C:
-  - T:
-  - R:
+  - C: 2017/03/24
+  - T: 36:50:58
+  - R: +++
+  - N: Main Endings Clear
 11. Persona 5
   - S:
   - C:
