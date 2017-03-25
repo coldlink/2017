@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 1 - COMPLETED: 17
+CURRENT STATUS - PLAYING: 1 - COMPLETED: 18
 
 Ratings:
   - \~     Neutral
@@ -95,10 +95,10 @@ Ratings:
   - T: 07:42:00
   - R: +
 17. Gravity Rush 2: Raven's Choice (DLC)
-  - S:
-  - C:
-  - T:
-  - R:
+  - S: 2017/03/25
+  - C: 2017/03/25
+  - T: 02:??:??
+  - R: +
 18. Tales of Zestiria
   - S:
   - C:
