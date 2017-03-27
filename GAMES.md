@@ -189,4 +189,9 @@ Ratings:
   - S:
   - C:
   - T:
-  - R: 
+  - R:
+34. Valkriya Revolution
+  - S:
+  - C:
+  - T:
+  - R:
