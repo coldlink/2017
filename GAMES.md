@@ -3,6 +3,9 @@
 CURRENT STATUS - PLAYING: 1 - COMPLETED: 18
 
 Ratings:
+  - \-\-\- Why did I even play this game.
+  - \-\-   Awful
+  - \-     Bad
   - \~     Neutral
   - \+     Good
   - \+\+   Great
@@ -169,7 +172,7 @@ Ratings:
   - S: 2017/03/07
   - C: 2017/03/07
   - T: 01:02:00
-  - R: ~
+  - R: -
 30. D4: Dark Dreams Don't Die
   - S: 2017/03/13
   - C: 2017/03/16
