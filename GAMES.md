@@ -198,3 +198,13 @@ Ratings:
   - C:
   - T:
   - R:
+35. Atelier Sophie: The Alchemist of the Mysterious Book
+  - S:
+  - C:
+  - T:
+  - R:
+36. Atelier Firis: The Alchemist and the Mysterious Journey
+  - S:
+  - C:
+  - T:
+  - R:
