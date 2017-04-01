@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 1 - COMPLETED: 18
+CURRENT STATUS - PLAYING: 2 - COMPLETED: 18
 
 Ratings:
   - \-\-\- Why did I even play this game.
@@ -184,7 +184,7 @@ Ratings:
   - T:
   - R: 
 32. OneShot
-  - S:
+  - S: 31/03/2017
   - C:
   - T:
   - R: 
