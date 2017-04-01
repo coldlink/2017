@@ -208,3 +208,8 @@ Ratings:
   - C:
   - T:
   - R:
+37. WORLD END ECONOMiCA episode.03
+  - S:
+  - C:
+  - T:
+  - R:
