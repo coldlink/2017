@@ -184,10 +184,11 @@ Ratings:
   - T:
   - R: 
 32. OneShot
-  - S: 31/03/2017
-  - C:
-  - T:
-  - R: 
+  - S: 2017/03/31
+  - C: 2017/04/02
+  - T: 04:20:00
+  - R: +++
+  - N: Meta as F\*ck
 33. The Silver Case
   - S:
   - C:
