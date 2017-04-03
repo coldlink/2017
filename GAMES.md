@@ -214,3 +214,8 @@ Ratings:
   - C:
   - T:
   - R:
+38. Muramasa Rebirth: Genroku Legends
+  - S: 2017/04/03
+  - E:
+  - T:
+  - R:
