@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 1 - COMPLETED: 19
+CURRENT STATUS - PLAYING: 2 - COMPLETED: 19
 
 Ratings:
   - \-\-\- Why did I even play this game.
