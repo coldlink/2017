@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 2 - COMPLETED: 19
+CURRENT STATUS - PLAYING: 3 - COMPLETED: 19
 
 Ratings:
   - \-\-\- Why did I even play this game.
@@ -63,7 +63,7 @@ Ratings:
   - R: +++
   - N: Main Endings Clear
 11. Persona 5
-  - S:
+  - S: 2017/04/04
   - C:
   - T:
   - R:
