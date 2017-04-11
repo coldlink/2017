@@ -219,3 +219,8 @@ Ratings:
   - E:
   - T:
   - R:
+39. Bayonetta
+  - S:
+  - E:
+  - T:
+  - R:
