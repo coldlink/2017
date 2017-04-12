@@ -3,7 +3,7 @@
 CURRENT STATUS - PLAYING: 3 - COMPLETED: 19
 
 Ratings:
-  - \-\-\- Why did I even play this game.
+  - \-\-\- Why even.
   - \-\-   Awful
   - \-     Bad
   - \~     Neutral
