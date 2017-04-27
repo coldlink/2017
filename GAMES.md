@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 3 - COMPLETED: 19
+CURRENT STATUS - PLAYING: 2 - COMPLETED: 20
 
 Ratings:
   - \-\-\- Why even.
@@ -64,9 +64,9 @@ Ratings:
   - N: Main Endings Clear
 11. Persona 5
   - S: 2017/04/04
-  - C:
-  - T:
-  - R:
+  - C: 2017/04/27
+  - T: 104:15
+  - R: +++
 12. Resident Evil 7
   - S:
   - C:
