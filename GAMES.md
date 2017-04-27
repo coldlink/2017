@@ -224,3 +224,8 @@ Ratings:
   - E:
   - T:
   - R:
+40. Abzu
+  - S:
+  - E:
+  - T:
+  - R:
