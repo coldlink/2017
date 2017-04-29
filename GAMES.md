@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 2 - COMPLETED: 20
+CURRENT STATUS - PLAYING: 3 - COMPLETED: 20
 
 Ratings:
   - \-\-\- Why even.
@@ -220,7 +220,7 @@ Ratings:
   - T:
   - R:
 39. Bayonetta
-  - S:
+  - S: 2017/04/29
   - E:
   - T:
   - R:
