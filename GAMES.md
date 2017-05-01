@@ -74,9 +74,9 @@ Ratings:
   - R:
 13. Fire Emblem Fates: Revelation
   - S: 2016/XX/XX
-  - C:
-  - T:
-  - R:
+  - C: 2017/05/01
+  - T: 42:05:00
+  - R: +
 14. Idol Magical Girl Chiru Chiru Michiru Part 2
   - S:
   - C:
