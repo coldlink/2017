@@ -103,7 +103,7 @@ Ratings:
   - T: 02:??:??
   - R: +
 18. Tales of Zestiria
-  - S:
+  - S: 2017/05/02
   - C:
   - T:
   - R:
