@@ -229,3 +229,13 @@ Ratings:
   - E:
   - T:
   - R:
+41. Vanquish
+  - S:
+  - E:
+  - T:
+  - R:
+42. Binary Domain
+  - S:
+  - E:
+  - T:
+  - R:
