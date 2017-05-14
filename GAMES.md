@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 3 - COMPLETED: 22
+CURRENT STATUS - PLAYING: 3 - COMPLETED: 23
 
 Ratings:
   - \-\-\- Why even.
@@ -225,10 +225,10 @@ Ratings:
   - T: 10:12:15
   - R: +
 40. Abzu
-  - S:
-  - E:
-  - T:
-  - R:
+  - S: 2017/05/14
+  - E: 2017/05/14
+  - T: 01:30:00
+  - R: ++
 41. Vanquish
   - S:
   - E:
