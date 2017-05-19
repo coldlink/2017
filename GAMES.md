@@ -199,42 +199,32 @@ Ratings:
   - C:
   - T:
   - R:
-35. Atelier Sophie: The Alchemist of the Mysterious Book
+35. WORLD END ECONOMiCA episode.03
   - S:
   - C:
   - T:
   - R:
-36. Atelier Firis: The Alchemist and the Mysterious Journey
-  - S:
-  - C:
-  - T:
-  - R:
-37. WORLD END ECONOMiCA episode.03
-  - S:
-  - C:
-  - T:
-  - R:
-38. Muramasa Rebirth: Genroku Legends
+36. Muramasa Rebirth: Genroku Legends
   - S: 2017/04/03
   - E:
   - T:
   - R:
-39. Bayonetta
+37. Bayonetta
   - S: 2017/04/29
   - E: 2017/05/01
   - T: 10:12:15
   - R: +
-40. Abzu
+38. Abzu
   - S: 2017/05/14
   - E: 2017/05/14
   - T: 01:30:00
   - R: ++
-41. Vanquish
+39. Vanquish
   - S:
   - E:
   - T:
   - R:
-42. Binary Domain
+40. Binary Domain
   - S:
   - E:
   - T:
