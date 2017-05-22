@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 3 - COMPLETED: 23
+CURRENT STATUS - PLAYING: 3 - COMPLETED: 24
 
 Ratings:
   - \-\-\- Why even.
@@ -114,11 +114,11 @@ Ratings:
   - R: +
 18. Doom
   - S: 2017/05/13
-  - C:
-  - T:
-  - R:
+  - C: 2017/05/22
+  - T: 10:54:00
+  - R: ++
 19. Fire Emblem Echoes: Shadows of Valentia
-  - S:
+  - S: 2017/05/20
   - C:
   - T:
   - R:
