@@ -196,36 +196,36 @@ Ratings:
   - R:
 37. Muramasa Rebirth: Genroku Legends
   - S: 2017/04/03
-  - E:
+  - C:
   - T:
   - R:
 38. Bayonetta
   - S: 2017/04/29
-  - E: 2017/05/01
+  - C: 2017/05/01
   - T: 10:12:15
   - R: +
 39. Abzu
   - S: 2017/05/14
-  - E: 2017/05/14
+  - C: 2017/05/14
   - T: 01:30:00
   - R: ++
 40. Vanquish
   - S:
-  - E:
+  - C:
   - T:
   - R:
 41. Binary Domain
   - S:
-  - E:
+  - C:
   - T:
   - R:
 42. Her Story
   - S:
-  - E:
+  - C:
   - T:
   - R:
 43. 80 Days
   - S:
-  - E:
+  - C:
   - T:
   - R:
