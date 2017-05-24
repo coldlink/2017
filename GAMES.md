@@ -51,180 +51,180 @@ Ratings:
   - C: 2017/02/26
   - T: 10:36:00
   - R: ~
-9. Alien: Isolation
-  - S:
-  - C:
-  - T:
-  - R:
-10. NieR: Automata
+9. NieR: Automata
   - S: 2017/03/17
   - C: 2017/03/24
   - T: 36:50:58
   - R: +++
   - N: Main Endings Clear
-11. Persona 5
+10. Persona 5
   - S: 2017/04/04
   - C: 2017/04/27
   - T: 104:15:00
   - R: +++
-12. Resident Evil 7
-  - S:
-  - C:
-  - T:
-  - R:
-13. Fire Emblem Fates: Revelation
+11. Fire Emblem Fates: Revelation
   - S: 2016/XX/XX
   - C: 2017/05/01
   - T: 42:05:00
   - R: +
-14. Idol Magical Girl Chiru Chiru Michiru Part 2
+12. Idol Magical Girl Chiru Chiru Michiru Part 2
   - S:
   - C:
   - T:
   - R:
-15. GrimGrimoire
+13. GrimGrimoire
   - S:
   - C:
   - T:
   - R:
-16. NieR
+14. NieR
   - S: 10/02/2017
   - C: 14/02/2017 
   - T: 23:30:04
   - R: ++
-16. Ys II
+15. Ys II
   - S: 2017/02/05
   - C: 2017/02/06
   - T: 07:42:00
   - R: +
-17. Gravity Rush 2: Raven's Choice (DLC)
+16. Gravity Rush 2: Raven's Choice (DLC)
   - S: 2017/03/25
   - C: 2017/03/25
   - T: 02:??:??
   - R: +
-18. Tales of Zestiria
+17. Tales of Zestiria
   - S: 2017/05/02
   - C:
   - T:
   - R:
-17. Enslaved: Odyssey to the West
+18. Enslaved: Odyssey to the West
   - S: 2017/02/27
   - C: 2017/03/04
   - T: 08:48:00
   - R: +
-18. Doom
+19. Doom
   - S: 2017/05/13
   - C: 2017/05/22
   - T: 10:54:00
   - R: ++
-19. Fire Emblem Echoes: Shadows of Valentia
+20. Fire Emblem Echoes: Shadows of Valentia
   - S: 2017/05/20
   - C:
   - T:
   - R:
-20. The Last Guardian
+21. The Last Guardian
   - S:
   - C:
   - T:
   - R:
-21. Drakengard 3
+22. Drakengard 3
   - S: 2017/02/17
   - C: 2017/02/19
   - T: XX:XX:XX
   - R: ~
-22. God Eater: Resurrection
+23. God Eater: Resurrection
   - S:
   - C:
   - T:
   - R:
-23. God Eater 2: Rage Burst
+24. God Eater 2: Rage Burst
   - S:
   - C:
   - T:
   - R:
-24. Fire Emblem: Awakening (Replay/Hard Mode)
+25. Fire Emblem: Awakening (Replay/Hard Mode)
   - S:
   - C:
   - T:
   - R:
-25. VA-11 Hall-A: Cyberpunk Bartender Action Prologue (Remastered/DLC)
+26. VA-11 Hall-A: Cyberpunk Bartender Action Prologue (Remastered/DLC)
   - S: 2017/02/19
   - C: 2017/02/19
   - T: 01:03:00
   - R: +
-26. Deus Ex: Mankind Divided
+27. Deus Ex: Mankind Divided
   - S: 
   - C: 
   - T:
   - R:
-27. Dreamfall Chapters
+28. Dreamfall Chapters
   - S:
   - C:
   - T:
   - R:
-28. Ys Origin
+29. Ys Origin
   - S: 2017/03/11
   - C: 2017/03/12
   - T: 07:45:00
   - R: +
   - N: 1/3 Characters Completed
-29. Shelter
+30. Shelter
   - S: 2017/03/07
   - C: 2017/03/07
   - T: 01:02:00
   - R: -
-30. D4: Dark Dreams Don't Die
+31. D4: Dark Dreams Don't Die
   - S: 2017/03/13
   - C: 2017/03/16
   - T: 3:00:00
   - R: +
-31. Ys: The Oath in Felghana
+32. Ys: The Oath in Felghana
   - S:
   - C:
   - T:
   - R: 
-32. OneShot
+33. OneShot
   - S: 2017/03/31
   - C: 2017/04/02
   - T: 04:20:00
   - R: +++
   - N: Meta as F\*ck
-33. The Silver Case
+34. The Silver Case
   - S:
   - C:
   - T:
   - R:
-34. Valkriya Revolution
+35. Valkriya Revolution
   - S:
   - C:
   - T:
   - R:
-35. WORLD END ECONOMiCA episode.03
+36. WORLD END ECONOMiCA episode.03
   - S:
   - C:
   - T:
   - R:
-36. Muramasa Rebirth: Genroku Legends
+37. Muramasa Rebirth: Genroku Legends
   - S: 2017/04/03
   - E:
   - T:
   - R:
-37. Bayonetta
+38. Bayonetta
   - S: 2017/04/29
   - E: 2017/05/01
   - T: 10:12:15
   - R: +
-38. Abzu
+39. Abzu
   - S: 2017/05/14
   - E: 2017/05/14
   - T: 01:30:00
   - R: ++
-39. Vanquish
+40. Vanquish
   - S:
   - E:
   - T:
   - R:
-40. Binary Domain
+41. Binary Domain
+  - S:
+  - E:
+  - T:
+  - R:
+42. Her Story
+  - S:
+  - E:
+  - T:
+  - R:
+43. 80 Days
   - S:
   - E:
   - T:
