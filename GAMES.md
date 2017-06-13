@@ -122,109 +122,94 @@ Ratings:
   - C: 2017/02/19
   - T: XX:XX:XX
   - R: ~
-23. God Eater: Resurrection
-  - S:
-  - C:
-  - T:
-  - R:
-24. God Eater 2: Rage Burst
-  - S:
-  - C:
-  - T:
-  - R:
-25. Fire Emblem: Awakening (Replay/Hard Mode)
-  - S:
-  - C:
-  - T:
-  - R:
-26. VA-11 Hall-A: Cyberpunk Bartender Action Prologue (Remastered/DLC)
+23. VA-11 Hall-A: Cyberpunk Bartender Action Prologue (Remastered/DLC)
   - S: 2017/02/19
   - C: 2017/02/19
   - T: 01:03:00
   - R: +
-27. Deus Ex: Mankind Divided
+24. Deus Ex: Mankind Divided
   - S: 
   - C: 
   - T:
   - R:
-28. Dreamfall Chapters
+25. Dreamfall Chapters
   - S:
   - C:
   - T:
   - R:
-29. Ys Origin
+26. Ys Origin
   - S: 2017/03/11
   - C: 2017/03/12
   - T: 07:45:00
   - R: +
   - N: 1/3 Characters Completed
-30. Shelter
+27. Shelter
   - S: 2017/03/07
   - C: 2017/03/07
   - T: 01:02:00
   - R: -
-31. D4: Dark Dreams Don't Die
+28. D4: Dark Dreams Don't Die
   - S: 2017/03/13
   - C: 2017/03/16
   - T: 3:00:00
   - R: +
-32. Ys: The Oath in Felghana
+29. Ys: The Oath in Felghana
   - S:
   - C:
   - T:
   - R: 
-33. OneShot
+30. OneShot
   - S: 2017/03/31
   - C: 2017/04/02
   - T: 04:20:00
   - R: +++
   - N: Meta as F\*ck
-34. The Silver Case
+31. The Silver Case
   - S:
   - C:
   - T:
   - R:
-35. Valkriya Revolution
+32. Valkriya Revolution
   - S:
   - C:
   - T:
   - R:
-36. WORLD END ECONOMiCA episode.03
+33. WORLD END ECONOMiCA episode.03
   - S:
   - C:
   - T:
   - R:
-37. Muramasa Rebirth: Genroku Legends
+34. Muramasa Rebirth: Genroku Legends
   - S: 2017/04/03
   - C:
   - T:
   - R:
-38. Bayonetta
+35. Bayonetta
   - S: 2017/04/29
   - C: 2017/05/01
   - T: 10:12:15
   - R: +
-39. Abzu
+36. Abzu
   - S: 2017/05/14
   - C: 2017/05/14
   - T: 01:30:00
   - R: ++
-40. Vanquish
+37. Vanquish
   - S:
   - C:
   - T:
   - R:
-41. Binary Domain
+38. Binary Domain
   - S:
   - C:
   - T:
   - R:
-42. Her Story
+39. Her Story
   - S:
   - C:
   - T:
   - R:
-43. 80 Days
+40. 80 Days
   - S:
   - C:
   - T:
