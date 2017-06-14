@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 3 - COMPLETED: 24
+CURRENT STATUS - PLAYING: 3 - COMPLETED: 25
 
 Ratings:
   - \-\-\- Why even.
@@ -109,9 +109,9 @@ Ratings:
   - R: ++
 20. Fire Emblem Echoes: Shadows of Valentia
   - S: 2017/05/20
-  - C:
-  - T:
-  - R:
+  - C: 2017/06/14
+  - T: 37:28:00
+  - R: ++
 21. The Last Guardian
   - S:
   - C:
@@ -195,7 +195,7 @@ Ratings:
   - T: 01:30:00
   - R: ++
 37. Vanquish
-  - S:
+  - S: 2017/06/??
   - C:
   - T:
   - R:
