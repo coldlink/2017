@@ -196,9 +196,9 @@ Ratings:
   - R: ++
 37. Vanquish
   - S: 2017/06/??
-  - C:
-  - T:
-  - R:
+  - C: 2017/06/14
+  - T: 04:27:34
+  - R: +
 38. Binary Domain
   - S:
   - C:
