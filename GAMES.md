@@ -214,3 +214,8 @@ Ratings:
   - C:
   - T:
   - R:
+41. Xenoblade Chronicles 3D
+  - S:
+  - C:
+  - T:
+  - R:
