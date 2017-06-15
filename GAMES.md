@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 2 - COMPLETED: 26
+CURRENT STATUS - PLAYING: 3 - COMPLETED: 26
 
 Ratings:
   - \-\-\- Why even.
@@ -128,7 +128,7 @@ Ratings:
   - T: 01:03:00
   - R: +
 24. Deus Ex: Mankind Divided
-  - S: 
+  - S: 2017/06/15
   - C: 
   - T:
   - R:
