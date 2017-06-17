@@ -209,12 +209,7 @@ Ratings:
   - C: 2017/06/17
   - T: 02:40:00
   - R: ++
-40. 80 Days
-  - S:
-  - C:
-  - T:
-  - R:
-41. Xenoblade Chronicles 3D
+40. Xenoblade Chronicles 3D
   - S:
   - C:
   - T:
