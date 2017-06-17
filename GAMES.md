@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 3 - COMPLETED: 27
+CURRENT STATUS - PLAYING: 1 - COMPLETED: 27 - DROPPED: 2
 
 Ratings:
   - \-\-\- Why even.
@@ -92,11 +92,11 @@ Ratings:
   - C: 2017/03/25
   - T: 02:??:??
   - R: +
-17. Tales of Zestiria
+~~17. Tales of Zestiria
   - S: 2017/05/02
   - C:
   - T:
-  - R:
+  - R: ~ ~~
 18. Enslaved: Odyssey to the West
   - S: 2017/02/27
   - C: 2017/03/04
@@ -179,11 +179,11 @@ Ratings:
   - C:
   - T:
   - R:
-34. Muramasa Rebirth: Genroku Legends
+~~34. Muramasa Rebirth: Genroku Legends
   - S: 2017/04/03
   - C:
   - T:
-  - R:
+  - R: ~ ~~
 35. Bayonetta
   - S: 2017/04/29
   - C: 2017/05/01
