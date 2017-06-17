@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 3 - COMPLETED: 26
+CURRENT STATUS - PLAYING: 3 - COMPLETED: 27
 
 Ratings:
   - \-\-\- Why even.
@@ -205,10 +205,10 @@ Ratings:
   - T:
   - R:
 39. Her Story
-  - S:
-  - C:
-  - T:
-  - R:
+  - S: 2017/06/16
+  - C: 2017/06/17
+  - T: 02:40:00
+  - R: ++
 40. 80 Days
   - S:
   - C:
