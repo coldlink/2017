@@ -209,8 +209,3 @@ Ratings:
   - C: 2017/06/17
   - T: 02:40:00
   - R: ++
-40. Xenoblade Chronicles 3D
-  - S:
-  - C:
-  - T:
-  - R:
