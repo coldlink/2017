@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 1 - COMPLETED: 27 - DROPPED: 2
+CURRENT STATUS - PLAYING: 0 - COMPLETED: 28 - DROPPED: 2
 
 Ratings:
   - \-\-\- Why even.
@@ -129,9 +129,9 @@ Ratings:
   - R: +
 24. Deus Ex: Mankind Divided
   - S: 2017/06/15
-  - C: 
-  - T:
-  - R:
+  - C: 2017/06/24
+  - T: 24:00:00
+  - R: ++
 25. Dreamfall Chapters
   - S:
   - C:
