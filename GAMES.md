@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 0 - COMPLETED: 28 - DROPPED: 2
+CURRENT STATUS - PLAYING: 2 - COMPLETED: 29 - DROPPED: 2
 
 Ratings:
   - \-\-\- Why even.
@@ -209,3 +209,18 @@ Ratings:
   - C: 2017/06/17
   - T: 02:40:00
   - R: ++
+40. Fire Emblem: Heroes
+  - S: 2017/02/02
+  - C: XXXX/XX/XX
+  - T: XX:XX:XX
+  - R: +
+41. Fate/Grand Order
+  - S: 2017/06/26
+  - C:
+  - T:
+  - R:
+42. Final Fantasy XIV: Online
+  - S: 2017/06/24
+  - C: 
+  - T: 
+  - R: 
