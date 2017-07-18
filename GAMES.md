@@ -92,11 +92,9 @@ Ratings:
   - C: 2017/03/25
   - T: 02:??:??
   - R: +
-~~17. Tales of Zestiria
+17. Tales of Zestiria
   - S: 2017/05/02
-  - C:
-  - T:
-  - R: ~ ~~
+  - N: DROPPED
 18. Enslaved: Odyssey to the West
   - S: 2017/02/27
   - C: 2017/03/04
@@ -169,62 +167,55 @@ Ratings:
   - C:
   - T:
   - R:
-32. Valkriya Revolution
+32. WORLD END ECONOMiCA episode.03
   - S:
   - C:
   - T:
   - R:
-33. WORLD END ECONOMiCA episode.03
-  - S:
-  - C:
-  - T:
-  - R:
-~~34. Muramasa Rebirth: Genroku Legends
+33. Muramasa Rebirth: Genroku Legends
   - S: 2017/04/03
-  - C:
-  - T:
-  - R: ~ ~~
-35. Bayonetta
+  - N: DROPPED
+34. Bayonetta
   - S: 2017/04/29
   - C: 2017/05/01
   - T: 10:12:15
   - R: +
-36. Abzu
+35. Abzu
   - S: 2017/05/14
   - C: 2017/05/14
   - T: 01:30:00
   - R: ++
-37. Vanquish
+36. Vanquish
   - S: 2017/06/10
   - C: 2017/06/14
   - T: 04:27:34
   - R: +
-38. Binary Domain
+37. Binary Domain
   - S:
   - C:
   - T:
   - R:
-39. Her Story
+38. Her Story
   - S: 2017/06/16
   - C: 2017/06/17
   - T: 02:40:00
   - R: ++
-40. Fire Emblem: Heroes
+39. Fire Emblem: Heroes
   - S: 2017/02/02
   - C: XXXX/XX/XX
   - T: XX:XX:XX
   - R: +
-41. Fate/Grand Order
+40. Fate/Grand Order
   - S: 2017/06/26
   - C:
   - T:
   - R:
-42. Final Fantasy XIV: Online
+41. Final Fantasy XIV: Online
   - S: 2017/06/24
   - C:
   - T: 
   - R:
-43. Cities: Skylines
+42. Cities: Skylines
   - S: 2017/07/04
   - C: 2017/07/15
   - T: 20:00:00
