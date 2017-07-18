@@ -220,3 +220,8 @@ Ratings:
   - C: 2017/07/15
   - T: 20:00:00
   - R: +++
+43. Final Fantasy XII: The Zodiac Age
+  - S:
+  - C:
+  - T:
+  - R:
