@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 2 - COMPLETED: 31 - DROPPED: 2
+CURRENT STATUS - PLAYING: 1 - COMPLETED: 32 - DROPPED: 2
 
 Ratings:
   - \-\-\- Why even.
@@ -205,11 +205,13 @@ Ratings:
   - C: XXXX/XX/XX
   - T: XX:XX:XX
   - R: +
+  - N: Mobage. It's alright.
 40. Fate/Grand Order
   - S: 2017/06/26
-  - C:
-  - T:
-  - R:
+  - C: XXXX/XX/XX
+  - T: XX:XX:XX
+  - R: +++
+  - N: Still playing. Probably Addicted. It's Mobage, but with Fate.
 41. Final Fantasy XIV: Online
   - S: 2017/06/24
   - C: 2017/06/23
