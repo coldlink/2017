@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 3 - COMPLETED: 30 - DROPPED: 2
+CURRENT STATUS - PLAYING: 2 - COMPLETED: 31 - DROPPED: 2
 
 Ratings:
   - \-\-\- Why even.
@@ -212,9 +212,10 @@ Ratings:
   - R:
 41. Final Fantasy XIV: Online
   - S: 2017/06/24
-  - C:
-  - T: 
-  - R:
+  - C: 2017/06/23
+  - T: 57:XX:XX
+  - R: ++
+  - N: 1 Month Sub
 42. Cities: Skylines
   - S: 2017/07/04
   - C: 2017/07/15
