@@ -163,7 +163,7 @@ Ratings:
   - R: +++
   - N: Meta as F\*ck
 31. The Silver Case
-  - S: 01/07/2017
+  - S: 2017/07/01
   - C:
   - T:
   - R:
