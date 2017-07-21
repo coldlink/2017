@@ -214,7 +214,7 @@ Ratings:
   - N: Still playing. Probably Addicted. It's Mobage, but with Fate.
 41. Final Fantasy XIV: Online
   - S: 2017/06/24
-  - C: 2017/06/23
+  - C: 2017/07/20
   - T: 57:XX:XX
   - R: ++
   - N: 1 Month Sub
@@ -224,7 +224,7 @@ Ratings:
   - T: 20:00:00
   - R: +++
 43. Final Fantasy XII: The Zodiac Age
-  - S:
+  - S: 2017/07/19
   - C:
   - T:
   - R:
