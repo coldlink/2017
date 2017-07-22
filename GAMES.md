@@ -228,3 +228,8 @@ Ratings:
   - C:
   - T:
   - R:
+44. Yakuza 0
+  - S:
+  - C:
+  - T:
+  - R:
