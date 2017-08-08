@@ -229,7 +229,13 @@ Ratings:
   - T:
   - R:
 44. Yakuza 0
-  - S:2017/08/02
+  - S: 2017/08/02
   - C:
   - T:
   - R:
+45. Transistor
+  - S:
+  - C:
+  - T:
+  - R:
+  - N: Replay
