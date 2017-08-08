@@ -239,3 +239,13 @@ Ratings:
   - T:
   - R:
   - N: Replay
+46. Pyre
+  - S:
+  - C:
+  - T:
+  - R:
+47. Persona 4: Dancing All Night
+  - S:
+  - C:
+  - T:
+  - R:
