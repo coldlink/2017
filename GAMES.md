@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 3 - COMPLETED: 32 - DROPPED: 2
+CURRENT STATUS - PLAYING: 2 - COMPLETED: 33 - DROPPED: 2
 
 Ratings:
   - \-\-\- Why even.
@@ -164,9 +164,9 @@ Ratings:
   - N: Meta as F\*ck
 31. The Silver Case
   - S: 2017/07/01
-  - C:
-  - T:
-  - R:
+  - C: 2017/08/15
+  - T: 09:59:21
+  - R: +
 32. WORLD END ECONOMiCA episode.03
   - S:
   - C:
