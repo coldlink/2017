@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 2 - COMPLETED: 33 - DROPPED: 2
+CURRENT STATUS - PLAYING: 1 - COMPLETED: 33 - DROPPED: 2
 
 Ratings:
   - \-\-\- Why even.
@@ -229,7 +229,7 @@ Ratings:
   - T:
   - R:
 44. Yakuza 0
-  - S: 2017/08/02
+  - S:
   - C:
   - T:
   - R:
