@@ -227,7 +227,7 @@ Ratings:
   - S: 2017/07/19
   - N: DROPPED
 44. Yakuza 0
-  - S:
+  - S: 2017/08/19
   - C:
   - T:
   - R:
