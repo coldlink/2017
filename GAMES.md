@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 1 - COMPLETED: 33 - DROPPED: 3
+CURRENT STATUS - PLAYING: 0 - COMPLETED: 34 - DROPPED: 3
 
 Ratings:
   - \-\-\- Why even.
@@ -249,6 +249,6 @@ Ratings:
   - R:
 48. Subsurface Circular
   - S: 2017/08/19
-  - C:
-  - T:
-  - R:
+  - C: 2017/08/19
+  - T: 03:XX:XX
+  - R: ++
