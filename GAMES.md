@@ -67,32 +67,27 @@ Ratings:
   - C: 2017/05/01
   - T: 42:05:00
   - R: +
-12. Idol Magical Girl Chiru Chiru Michiru Part 2
+14. GrimGrimoire
   - S:
   - C:
   - T:
   - R:
-13. GrimGrimoire
-  - S:
-  - C:
-  - T:
-  - R:
-14. NieR
+15. NieR
   - S: 10/02/2017
   - C: 14/02/2017 
   - T: 23:30:04
   - R: ++
-15. Ys II
+16. Ys II
   - S: 2017/02/05
   - C: 2017/02/06
   - T: 07:42:00
   - R: +
-16. Gravity Rush 2: Raven's Choice (DLC)
+17. Gravity Rush 2: Raven's Choice (DLC)
   - S: 2017/03/25
   - C: 2017/03/25
   - T: 02:??:??
   - R: +
-17. Tales of Zestiria
+XX. Tales of Zestiria
   - S: 2017/05/02
   - N: DROPPED
 18. Enslaved: Odyssey to the West
@@ -172,82 +167,82 @@ Ratings:
   - C:
   - T:
   - R:
-33. Muramasa Rebirth: Genroku Legends
+XX. Muramasa Rebirth: Genroku Legends
   - S: 2017/04/03
   - N: DROPPED
-34. Bayonetta
+33. Bayonetta
   - S: 2017/04/29
   - C: 2017/05/01
   - T: 10:12:15
   - R: +
-35. Abzu
+34. Abzu
   - S: 2017/05/14
   - C: 2017/05/14
   - T: 01:30:00
   - R: ++
-36. Vanquish
+35. Vanquish
   - S: 2017/06/10
   - C: 2017/06/14
   - T: 04:27:34
   - R: +
-37. Binary Domain
+36. Binary Domain
   - S:
   - C:
   - T:
   - R:
-38. Her Story
+37. Her Story
   - S: 2017/06/16
   - C: 2017/06/17
   - T: 02:40:00
   - R: ++
-39. Fire Emblem: Heroes
+38. Fire Emblem: Heroes
   - S: 2017/02/02
   - C: XXXX/XX/XX
   - T: XX:XX:XX
   - R: +
   - N: Mobage. It's alright.
-40. Fate/Grand Order
+39. Fate/Grand Order
   - S: 2017/06/26
   - C: XXXX/XX/XX
   - T: XX:XX:XX
   - R: +++
   - N: Still playing. Probably Addicted. It's Mobage, but with Fate.
-41. Final Fantasy XIV: Online
+40. Final Fantasy XIV: Online
   - S: 2017/06/24
   - C: 2017/07/20
   - T: 57:XX:XX
   - R: ++
   - N: 1 Month Sub
-42. Cities: Skylines
+41. Cities: Skylines
   - S: 2017/07/04
   - C: 2017/07/15
   - T: 20:00:00
   - R: +++
-43. Final Fantasy XII: The Zodiac Age
+XX. Final Fantasy XII: The Zodiac Age
   - S: 2017/07/19
   - N: DROPPED
-44. Yakuza 0
+42. Yakuza 0
   - S: 2017/08/19
   - C:
   - T:
   - R:
-45. Transistor
+43. Transistor
   - S:
   - C:
   - T:
   - R:
   - N: Replay
-46. Pyre
+44. Pyre
   - S:
   - C:
   - T:
   - R:
-47. Persona 4: Dancing All Night
+45. Persona 4: Dancing All Night
   - S:
   - C:
   - T:
   - R:
-48. Subsurface Circular
+46. Subsurface Circular
   - S: 2017/08/19
   - C: 2017/08/19
   - T: 03:XX:XX
