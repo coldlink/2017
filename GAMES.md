@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 1 - COMPLETED: 33 - DROPPED: 2
+CURRENT STATUS - PLAYING: 1 - COMPLETED: 33 - DROPPED: 3
 
 Ratings:
   - \-\-\- Why even.
@@ -225,9 +225,7 @@ Ratings:
   - R: +++
 43. Final Fantasy XII: The Zodiac Age
   - S: 2017/07/19
-  - C:
-  - T:
-  - R:
+  - N: DROPPED
 44. Yakuza 0
   - S:
   - C:
@@ -246,6 +244,11 @@ Ratings:
   - R:
 47. Persona 4: Dancing All Night
   - S:
+  - C:
+  - T:
+  - R:
+48. Subsurface Circular
+  - S: 2017/08/19
   - C:
   - T:
   - R:
