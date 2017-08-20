@@ -87,9 +87,11 @@ Ratings:
   - C: 2017/03/25
   - T: 02:??:??
   - R: +
+
 XX. Tales of Zestiria
   - S: 2017/05/02
   - N: DROPPED
+
 18. Enslaved: Odyssey to the West
   - S: 2017/02/27
   - C: 2017/03/04
@@ -167,9 +169,11 @@ XX. Tales of Zestiria
   - C:
   - T:
   - R:
+
 XX. Muramasa Rebirth: Genroku Legends
   - S: 2017/04/03
   - N: DROPPED
+
 33. Bayonetta
   - S: 2017/04/29
   - C: 2017/05/01
@@ -218,9 +222,11 @@ XX. Muramasa Rebirth: Genroku Legends
   - C: 2017/07/15
   - T: 20:00:00
   - R: +++
+
 XX. Final Fantasy XII: The Zodiac Age
   - S: 2017/07/19
   - N: DROPPED
+
 42. Yakuza 0
   - S: 2017/08/19
   - C:
