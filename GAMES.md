@@ -229,9 +229,9 @@ XX. Final Fantasy XII: The Zodiac Age
 
 42. Yakuza 0
   - S: 2017/08/19
-  - C:
-  - T:
-  - R:
+  - C: 2017/09/02
+  - T: 47:57:00
+  - R: +++
 43. Transistor
   - S:
   - C:
