@@ -253,3 +253,8 @@ XX. Final Fantasy XII: The Zodiac Age
   - C: 2017/08/19
   - T: 03:XX:XX
   - R: ++
+47. Yakuza Kiwami
+  - S:
+  - C:
+  - T:
+  - R:
