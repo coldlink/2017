@@ -68,7 +68,7 @@ Ratings:
   - T: 42:05:00
   - R: +
 14. GrimGrimoire
-  - S:
+  - S: 2017/09/04
   - C:
   - T:
   - R:
