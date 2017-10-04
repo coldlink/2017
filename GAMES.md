@@ -228,8 +228,8 @@ XX. Final Fantasy XII: The Zodiac Age
 42. Yakuza 0
   - S: 2017/08/19
   - C: 2017/09/02
-  - T: 47:57:00
-  - R: +++
+  - T: 47:57:00
+  - R: +++
 43. Pyre
   - S:
   - C:
