@@ -222,48 +222,40 @@ XX. Muramasa Rebirth: Genroku Legends
   - C: 2017/07/15
   - T: 20:00:00
   - R: +++
-
 XX. Final Fantasy XII: The Zodiac Age
   - S: 2017/07/19
   - N: DROPPED
-
 42. Yakuza 0
   - S: 2017/08/19
   - C: 2017/09/02
   - T: 47:57:00
   - R: +++
-43. Transistor
+43. Pyre
   - S:
   - C:
   - T:
   - R:
-  - N: Replay
-44. Pyre
-  - S:
-  - C:
-  - T:
-  - R:
-45. Persona 4: Dancing All Night
+44. Persona 4: Dancing All Night
   - S: 2017/09/16
   - C:
   - T:
   - R:
-46. Subsurface Circular
+45. Subsurface Circular
   - S: 2017/08/19
   - C: 2017/08/19
   - T: 03:XX:XX
   - R: ++
-47. Yakuza Kiwami
+46. Yakuza Kiwami
   - S:
   - C:
   - T:
   - R:
-48. A Normal Lost Phone
+47. A Normal Lost Phone
   - S:
   - C:
   - T:
   - R:
-49. Another Lost Phone: Laura's Story
+48. Another Lost Phone: Laura's Story
   - S:
   - C:
   - T:
