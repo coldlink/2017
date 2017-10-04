@@ -222,9 +222,11 @@ XX. Muramasa Rebirth: Genroku Legends
   - C: 2017/07/15
   - T: 20:00:00
   - R: +++
+
 XX. Final Fantasy XII: The Zodiac Age
   - S: 2017/07/19
   - N: DROPPED
+
 42. Yakuza 0
   - S: 2017/08/19
   - C: 2017/09/02
