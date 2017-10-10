@@ -262,3 +262,8 @@ XX. Final Fantasy XII: The Zodiac Age
   - C:
   - T:
   - R:
+49. Hellblade: Senua's Sacrifice
+  - S:
+  - C:
+  - T:
+  - R:
