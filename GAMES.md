@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 1 - COMPLETED: 36 - DROPPED: 3
+CURRENT STATUS - PLAYING: 2 - COMPLETED: 37 - DROPPED: 3
 
 Ratings:
   - \-\-\- Why even.
@@ -263,7 +263,12 @@ XX. Final Fantasy XII: The Zodiac Age
   - T:
   - R:
 49. Hellblade: Senua's Sacrifice
-  - S:
+  - S: 2017/10/13
+  - C: 2017/10/14
+  - T: 9:00:00
+  - R: ++
+50. Ys: Memories of Celceta
+  - S: 2017/10/XX
   - C:
   - T:
   - R:
