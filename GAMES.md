@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 2 - COMPLETED: 37 - DROPPED: 3
+CURRENT STATUS - PLAYING: 2 - COMPLETED: 38 - DROPPED: 3
 
 Ratings:
   - \-\-\- Why even.
@@ -108,10 +108,10 @@ XX. Tales of Zestiria
   - T: 37:28:00
   - R: +++
 21. The Last Guardian
-  - S:
-  - C:
-  - T:
-  - R:
+  - S: 2017/10/16
+  - C: 2017/10/21
+  - T: XX:XX:XX
+  - R: +++
 22. Drakengard 3
   - S: 2017/02/17
   - C: 2017/02/19
@@ -269,6 +269,11 @@ XX. Final Fantasy XII: The Zodiac Age
   - R: ++
 50. Ys: Memories of Celceta
   - S: 2017/10/XX
+  - C:
+  - T:
+  - R:
+51. Icey
+  - S:
   - C:
   - T:
   - R:
