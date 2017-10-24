@@ -277,3 +277,8 @@ XX. Final Fantasy XII: The Zodiac Age
   - C:
   - T:
   - R:
+52. Doki Doki Literature Club!
+  - S:
+  - C:
+  - T:
+  - R:
