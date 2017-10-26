@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 2 - COMPLETED: 38 - DROPPED: 3
+CURRENT STATUS - PLAYING: 2 - COMPLETED: 39 - DROPPED: 3
 
 Ratings:
   - \-\-\- Why even.
@@ -67,22 +67,22 @@ Ratings:
   - C: 2017/05/01
   - T: 42:05:00
   - R: +
-14. GrimGrimoire
+12. GrimGrimoire
   - S: 2017/09/04
   - C:
   - T:
   - R:
-15. NieR
+13. NieR
   - S: 10/02/2017
   - C: 14/02/2017 
   - T: 23:30:04
   - R: ++
-16. Ys II
+14. Ys II
   - S: 2017/02/05
   - C: 2017/02/06
   - T: 07:42:00
   - R: +
-17. Gravity Rush 2: Raven's Choice (DLC)
+15. Gravity Rush 2: Raven's Choice (DLC)
   - S: 2017/03/25
   - C: 2017/03/25
   - T: 02:??:??
@@ -92,79 +92,79 @@ XX. Tales of Zestiria
   - S: 2017/05/02
   - N: DROPPED
 
-18. Enslaved: Odyssey to the West
+16. Enslaved: Odyssey to the West
   - S: 2017/02/27
   - C: 2017/03/04
   - T: 08:48:00
   - R: +
-19. Doom
+17. Doom
   - S: 2017/05/13
   - C: 2017/05/22
   - T: 10:54:00
   - R: +++
-20. Fire Emblem Echoes: Shadows of Valentia
+18. Fire Emblem Echoes: Shadows of Valentia
   - S: 2017/05/20
   - C: 2017/06/14
   - T: 37:28:00
   - R: +++
-21. The Last Guardian
+19. The Last Guardian
   - S: 2017/10/16
   - C: 2017/10/21
   - T: XX:XX:XX
   - R: +++
-22. Drakengard 3
+20. Drakengard 3
   - S: 2017/02/17
   - C: 2017/02/19
   - T: XX:XX:XX
   - R: ~
-23. VA-11 Hall-A: Cyberpunk Bartender Action Prologue (Remastered/DLC)
+21. VA-11 Hall-A: Cyberpunk Bartender Action Prologue (Remastered/DLC)
   - S: 2017/02/19
   - C: 2017/02/19
   - T: 01:03:00
   - R: +
-24. Deus Ex: Mankind Divided
+22. Deus Ex: Mankind Divided
   - S: 2017/06/15
   - C: 2017/06/24
   - T: 24:00:00
   - R: ++
-25. Dreamfall Chapters
+23. Dreamfall Chapters
   - S:
   - C:
   - T:
   - R:
-26. Ys Origin
+24. Ys Origin
   - S: 2017/03/11
   - C: 2017/03/12
   - T: 07:45:00
   - R: +
   - N: 1/3 Characters Completed
-27. Shelter
+25. Shelter
   - S: 2017/03/07
   - C: 2017/03/07
   - T: 01:02:00
   - R: -
-28. D4: Dark Dreams Don't Die
+26. D4: Dark Dreams Don't Die
   - S: 2017/03/13
   - C: 2017/03/16
   - T: 3:00:00
   - R: +
-29. Ys: The Oath in Felghana
+27. Ys: The Oath in Felghana
   - S:
   - C:
   - T:
   - R: 
-30. OneShot
+28. OneShot
   - S: 2017/03/31
   - C: 2017/04/02
   - T: 04:20:00
   - R: +++
   - N: Meta as F\*ck
-31. The Silver Case
+29. The Silver Case
   - S: 2017/07/01
   - C: 2017/08/15
   - T: 09:59:21
   - R: +
-32. WORLD END ECONOMiCA episode.03
+30. WORLD END ECONOMiCA episode.03
   - S:
   - C:
   - T:
@@ -174,50 +174,50 @@ XX. Muramasa Rebirth: Genroku Legends
   - S: 2017/04/03
   - N: DROPPED
 
-33. Bayonetta
+31. Bayonetta
   - S: 2017/04/29
   - C: 2017/05/01
   - T: 10:12:15
   - R: +
-34. Abzu
+32. Abzu
   - S: 2017/05/14
   - C: 2017/05/14
   - T: 01:30:00
   - R: ++
-35. Vanquish
+33. Vanquish
   - S: 2017/06/10
   - C: 2017/06/14
   - T: 04:27:34
   - R: +
-36. Binary Domain
+34. Binary Domain
   - S:
   - C:
   - T:
   - R:
-37. Her Story
+35. Her Story
   - S: 2017/06/16
   - C: 2017/06/17
   - T: 02:40:00
   - R: ++
-38. Fire Emblem: Heroes
+36. Fire Emblem: Heroes
   - S: 2017/02/02
   - C: XXXX/XX/XX
   - T: XX:XX:XX
   - R: +
   - N: Mobage. It's alright.
-39. Fate/Grand Order
+37. Fate/Grand Order
   - S: 2017/06/26
   - C: XXXX/XX/XX
   - T: XX:XX:XX
   - R: +++
   - N: Still playing. Probably Addicted. It's Mobage, but with Fate.
-40. Final Fantasy XIV: Online
+38. Final Fantasy XIV: Online
   - S: 2017/06/24
   - C: 2017/07/20
   - T: 57:XX:XX
   - R: ++
   - N: 1 Month Sub
-41. Cities: Skylines
+39. Cities: Skylines
   - S: 2017/07/04
   - C: 2017/07/15
   - T: 20:00:00
@@ -227,57 +227,57 @@ XX. Final Fantasy XII: The Zodiac Age
   - S: 2017/07/19
   - N: DROPPED
 
-42. Yakuza 0
+40. Yakuza 0
   - S: 2017/08/19
   - C: 2017/09/02
   - T: 47:57:00
   - R: +++
-43. Pyre
+41. Pyre
   - S:
   - C:
   - T:
   - R:
-44. Persona 4: Dancing All Night
+42. Persona 4: Dancing All Night
   - S: 2017/09/16
   - C: 2017/10/05
   - T: XX:XX:XX
   - R: ~
-45. Subsurface Circular
+43. Subsurface Circular
   - S: 2017/08/19
   - C: 2017/08/19
   - T: 03:XX:XX
   - R: ++
-46. Yakuza Kiwami
+44. Yakuza Kiwami
   - S:
   - C:
   - T:
   - R:
-47. A Normal Lost Phone
+45. A Normal Lost Phone
   - S:
   - C:
   - T:
   - R:
-48. Another Lost Phone: Laura's Story
+46. Another Lost Phone: Laura's Story
   - S:
   - C:
   - T:
   - R:
-49. Hellblade: Senua's Sacrifice
+47. Hellblade: Senua's Sacrifice
   - S: 2017/10/13
   - C: 2017/10/14
   - T: 9:00:00
   - R: ++
-50. Ys: Memories of Celceta
+48. Ys: Memories of Celceta
   - S: 2017/10/XX
   - C:
   - T:
   - R:
-51. Icey
-  - S:
-  - C:
-  - T:
-  - R:
-52. Doki Doki Literature Club!
+49. Icey
+  - S: 2017/10/24
+  - C: 2017/10/26
+  - T: 04:30:00
+  - R: +++
+50. Doki Doki Literature Club!
   - S:
   - C:
   - T:
