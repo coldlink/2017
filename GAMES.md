@@ -257,27 +257,32 @@ XX. Final Fantasy XII: The Zodiac Age
   - C:
   - T:
   - R:
-46. Another Lost Phone: Laura's Story
-  - S:
-  - C:
-  - T:
-  - R:
-47. Hellblade: Senua's Sacrifice
+46. Hellblade: Senua's Sacrifice
   - S: 2017/10/13
   - C: 2017/10/14
   - T: 9:00:00
   - R: ++
-48. Ys: Memories of Celceta
+47. Ys: Memories of Celceta
   - S: 2017/10/XX
   - C:
   - T:
   - R:
-49. Icey
+48. Icey
   - S: 2017/10/24
   - C: 2017/10/26
   - T: 04:30:00
   - R: +++
-50. Doki Doki Literature Club!
+49. Doki Doki Literature Club!
+  - S:
+  - C:
+  - T:
+  - R:
+50. Firewatch
+  - S:
+  - C:
+  - T:
+  - R:
+51. The Signal from Tölva
   - S:
   - C:
   - T:
