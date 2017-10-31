@@ -275,7 +275,7 @@ XX. Final Fantasy XII: The Zodiac Age
 49. Doki Doki Literature Club!
   - S: 2017/10/29
   - C: 2017/10/31
-  - T: 04:20:00
+  - T: 06:40:00
   - R: +++
 50. Firewatch
   - S:
