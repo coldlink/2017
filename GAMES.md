@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 2 - COMPLETED: 40 - DROPPED: 3
+CURRENT STATUS - PLAYING: 0 - COMPLETED: 40 - DROPPED: 3
 
 Ratings:
   - \-\-\- Why even.
@@ -68,7 +68,7 @@ Ratings:
   - T: 42:05:00
   - R: +
 12. GrimGrimoire
-  - S: 2017/09/04
+  - S: 
   - C:
   - T:
   - R:
@@ -263,7 +263,7 @@ XX. Final Fantasy XII: The Zodiac Age
   - T: 9:00:00
   - R: ++
 47. Ys: Memories of Celceta
-  - S: 2017/10/XX
+  - S:
   - C:
   - T:
   - R:
