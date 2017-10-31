@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 2 - COMPLETED: 39 - DROPPED: 3
+CURRENT STATUS - PLAYING: 2 - COMPLETED: 40 - DROPPED: 3
 
 Ratings:
   - \-\-\- Why even.
@@ -273,10 +273,10 @@ XX. Final Fantasy XII: The Zodiac Age
   - T: 04:30:00
   - R: +++
 49. Doki Doki Literature Club!
-  - S:
-  - C:
-  - T:
-  - R:
+  - S: 2017/10/29
+  - C: 2017/10/31
+  - T: 04:20:00
+  - R: +++
 50. Firewatch
   - S:
   - C:
