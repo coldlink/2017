@@ -278,7 +278,7 @@ XX. Final Fantasy XII: The Zodiac Age
   - T: 06:40:00
   - R: +++
 50. Firewatch
-  - S:
+  - S: 2017/11/02
   - C:
   - T:
   - R:
