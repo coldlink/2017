@@ -279,9 +279,9 @@ XX. Final Fantasy XII: The Zodiac Age
   - R: +++
 50. Firewatch
   - S: 2017/11/02
-  - C:
-  - T:
-  - R:
+  - C: 2017/11/03
+  - T: 04:00:00
+  - R: ++
 51. The Signal from Tölva
   - S:
   - C:
