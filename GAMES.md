@@ -286,7 +286,7 @@ XX. Final Fantasy XII: The Zodiac Age
   - S: 2017/11/04
   - C: 2017/11/05
   - T: 06:05:00
-  - R:
+  - R: ~
 52. Idol Magical Girl Chiru Chiru Michiru Part 2
   - S:
   - C:
