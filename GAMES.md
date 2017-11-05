@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 1 - COMPLETED: 41 - DROPPED: 3
+CURRENT STATUS - PLAYING: 1 - COMPLETED: 42 - DROPPED: 3
 
 Ratings:
   - \-\-\- Why even.
@@ -284,8 +284,8 @@ XX. Final Fantasy XII: The Zodiac Age
   - R: ++
 51. The Signal from Tölva
   - S: 2017/11/04
-  - C:
-  - T:
+  - C: 2017/11/05
+  - T: 06:05:00
   - R:
 52. Idol Magical Girl Chiru Chiru Michiru Part 2
   - S:
