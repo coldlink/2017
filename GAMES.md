@@ -189,7 +189,7 @@ XX. Muramasa Rebirth: Genroku Legends
   - C: 2017/06/14
   - T: 04:27:34
   - R: +
-34. Binary Domain
+34. Monument Valley 2
   - S:
   - C:
   - T:
