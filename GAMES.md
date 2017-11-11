@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 1 - COMPLETED: 42 - DROPPED: 3
+CURRENT STATUS - PLAYING: 0 - COMPLETED: 43 - DROPPED: 3
 
 Ratings:
   - \-\-\- Why even.
@@ -233,10 +233,10 @@ XX. Final Fantasy XII: The Zodiac Age
   - T: 47:57:00
   - R: +++
 41. Pyre
-  - S:
-  - C:
-  - T:
-  - R:
+  - S: 2017/11/05
+  - C: 2017/11/11
+  - T: 11:15:00
+  - R: +++
 42. Persona 4: Dancing All Night
   - S: 2017/09/16
   - C: 2017/10/05
