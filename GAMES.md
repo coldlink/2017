@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 0 - COMPLETED: 43 - DROPPED: 3
+CURRENT STATUS - PLAYING: 0 - COMPLETED: 44 - DROPPED: 3
 
 Ratings:
   - \-\-\- Why even.
@@ -190,10 +190,10 @@ XX. Muramasa Rebirth: Genroku Legends
   - T: 04:27:34
   - R: +
 34. Monument Valley 2
-  - S:
-  - C:
-  - T:
-  - R:
+  - S: 2017/11/11
+  - C: 2017/11/11
+  - T: 01:30:00
+  - R: ++
 35. Her Story
   - S: 2017/06/16
   - C: 2017/06/17
