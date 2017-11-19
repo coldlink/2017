@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 0 - COMPLETED: 44 - DROPPED: 3
+CURRENT STATUS - PLAYING: 1 - COMPLETED: 45 - DROPPED: 3
 
 Ratings:
   - \-\-\- Why even.
@@ -165,7 +165,7 @@ XX. Tales of Zestiria
   - T: 09:59:21
   - R: +
 30. WORLD END ECONOMiCA episode.03
-  - S:
+  - S: 2017/11/12
   - C:
   - T:
   - R:
@@ -252,11 +252,11 @@ XX. Final Fantasy XII: The Zodiac Age
   - C:
   - T:
   - R:
-45. A Normal Lost Phone
-  - S:
-  - C:
-  - T:
-  - R:
+45. Bound
+  - S: 2017/11/18
+  - C: 2017/11/19
+  - T: 02:30:00
+  - R: +
 46. Hellblade: Senua's Sacrifice
   - S: 2017/10/13
   - C: 2017/10/14
