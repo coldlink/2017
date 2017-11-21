@@ -283,3 +283,9 @@ XX. Final Fantasy XII: The Zodiac Age
   - T: XX:XX:XX
   - R: +
   - N: Can't really complete but I played it so it counts.
+51. Mirror's Edge Catalyst
+  - S:
+  - C:
+  - T:
+  - R:
+
