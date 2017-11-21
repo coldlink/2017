@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 1 - COMPLETED: 45 - DROPPED: 3
+CURRENT STATUS - PLAYING: 1 - COMPLETED: 46 - DROPPED: 3
 
 Ratings:
   - \-\-\- Why even.
@@ -287,8 +287,9 @@ XX. Final Fantasy XII: The Zodiac Age
   - C: 2017/11/05
   - T: 06:05:00
   - R: ~
-52. Idol Magical Girl Chiru Chiru Michiru Part 2
-  - S:
-  - C:
-  - T:
-  - R:
+52. Fifa 18
+  - S: 2017/11/19
+  - C: XXXX/XX/XX
+  - T: XX:XX:XX
+  - R: +
+  - N: Can't really complete but it's a game I'm playing this year. So it counts.
