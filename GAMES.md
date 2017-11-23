@@ -288,4 +288,9 @@ XX. Final Fantasy XII: The Zodiac Age
   - C:
   - T:
   - R:
+52. Tacoma
+  - S:
+  - C:
+  - T:
+  - R:
 
