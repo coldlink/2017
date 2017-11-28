@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 2 - COMPLETED: 46 - DROPPED: 4
+CURRENT STATUS - PLAYING: 2 - COMPLETED: 47 - DROPPED: 4
 
 Ratings:
   - \-\-\- Why even.
@@ -283,10 +283,10 @@ XX. Final Fantasy XII: The Zodiac Age
   - R: +
   - N: Can't really complete but I played it so it counts.
 50. Mirror's Edge Catalyst
-  - S:
-  - C:
-  - T:
-  - R:
+  - S: 2017/11/25
+  - C: 2017/11/27
+  - T: 10:00:00
+  - R: -
 51. Tacoma
   - S:
   - C:
