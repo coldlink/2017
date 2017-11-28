@@ -292,8 +292,8 @@ XX. Final Fantasy XII: The Zodiac Age
   - C:
   - T:
   - R: 
-52: Skyrim: VR
-  - S: 2017/18/11
+52. Skyrim: VR
+  - S: 2017/11/18
   - C:
   - T:
-  - R:
+  - R: 
