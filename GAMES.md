@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 2 - COMPLETED: 47 - DROPPED: 4
+CURRENT STATUS - PLAYING: 2 - COMPLETED: 48 - DROPPED: 4
 
 Ratings:
   - \-\-\- Why even.
@@ -297,3 +297,8 @@ XX. Final Fantasy XII: The Zodiac Age
   - C:
   - T:
   - R: 
+53. Summer Lesson: Miyamoto Hikari
+  - S: 2017/11/30
+  - C: 2017/11/30
+  - T: 03:00:00
+  - R: ++
