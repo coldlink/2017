@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 3 - COMPLETED: 50 - DROPPED: 4
+CURRENT STATUS - PLAYING: 1 - COMPLETED: 50 - DROPPED: 4
 
 Ratings:
   - \-\-\- Why even.
@@ -158,11 +158,9 @@ XX. Tales of Zestiria
   - C: 2017/08/15
   - T: 09:59:21
   - R: +
-28. WORLD END ECONOMiCA episode.03
+XX. WORLD END ECONOMiCA episode.03
   - S: 2017/11/12
-  - C:
-  - T:
-  - R:
+  - N: ON HOLD
 
 XX. Muramasa Rebirth: Genroku Legends
   - S: 2017/04/03
@@ -302,3 +300,8 @@ XX. Final Fantasy XII: The Zodiac Age
   - C: 2017/11/30
   - T: 03:00:00
   - R: ++
+54. A Normal Lost Phone
+  - S:
+  - C:
+  - T:
+  - R:
