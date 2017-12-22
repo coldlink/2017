@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 3 - COMPLETED: 49 - DROPPED: 4
+CURRENT STATUS - PLAYING: 3 - COMPLETED: 50 - DROPPED: 4
 
 Ratings:
   - \-\-\- Why even.
@@ -128,9 +128,9 @@ XX. Tales of Zestiria
   - R: ++
 22. Dreamfall Chapters
   - S: 2017/12/17 
-  - C:
-  - T:
-  - R:
+  - C: 2017/12/22
+  - T: 17:30:00
+  - R: +
 23. Ys Origin
   - S: 2017/03/11
   - C: 2017/03/12
