@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 1 - COMPLETED: 50 - DROPPED: 4
+CURRENT STATUS - PLAYING: 1 - COMPLETED: 51 - DROPPED: 4
 
 Ratings:
   - \-\-\- Why even.
