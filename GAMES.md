@@ -301,7 +301,7 @@ XX. Final Fantasy XII: The Zodiac Age
   - T: 03:00:00
   - R: ++
 54. A Normal Lost Phone
-  - S:
-  - C:
-  - T:
-  - R:
+  - S: 2017/22/22
+  - C: 2017/22/22
+  - T: 00:53:00
+  - R: ++
