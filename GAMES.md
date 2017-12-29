@@ -1,6 +1,6 @@
 # 2017 Backlog/Playing/Completed Games List
 
-CURRENT STATUS - PLAYING: 1 - COMPLETED: 51 - DROPPED: 4
+CURRENT STATUS - PLAYING: 2 - COMPLETED: 52 - DROPPED: 4
 
 Ratings:
   - \-\-\- Why even.
@@ -240,7 +240,7 @@ XX. Final Fantasy XII: The Zodiac Age
   - T: 03:XX:XX
   - R: ++
 42. Yakuza Kiwami
-  - S:
+  - S: 2017/12/24
   - C:
   - T:
   - R:
@@ -301,7 +301,12 @@ XX. Final Fantasy XII: The Zodiac Age
   - T: 03:00:00
   - R: ++
 54. A Normal Lost Phone
-  - S: 2017/22/22
-  - C: 2017/22/22
+  - S: 2017/12/22
+  - C: 2017/12/22
   - T: 00:53:00
   - R: ++
+55. Another Lost Phone: Laura's Story
+  - S: 2017/12/29
+  - C: 2017/12/29
+  - T: 00:45:00
+  - R: +
