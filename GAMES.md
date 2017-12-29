@@ -2,15 +2,6 @@
 
 CURRENT STATUS - PLAYING: 2 - COMPLETED: 52 - DROPPED: 4
 
-Ratings:
-  - \-\-\- Why even.
-  - \-\-   Awful
-  - \-     Bad
-  - \~     Neutral
-  - \+     Good
-  - \+\+   Great
-  - \+\+\+ ☆*:.｡.o(≧▽≦)o.｡.:*☆
-
 1. Metal Gear Rising: Revengence
   - S: 2017/01/01
   - C: 2017/01/02
